@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoJavaSpringApplication {
 
 	public static void main(String[] args) {
-	    System.out.println("this is infinity start --");
+	    System.out.println("-- this is infinity start --");
 		SpringApplication.run(DemoJavaSpringApplication.class, args);
 	}
 }
